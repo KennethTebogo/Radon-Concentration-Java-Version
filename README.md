@@ -21,9 +21,9 @@ This Java application calculates radon concentration in indoor air using E-PERM 
 
 **Radon concentration (CRn):**
 
-\[
-CRn = rac{I - F}{Cf 	imes T} - BG
-\]
+\
+[CRn = rac{I - F}{Cf 	imes T} - BG]
+\
 
 Where:
 - `I` = Initial voltage (V)
@@ -42,9 +42,9 @@ Total uncertainty is calculated from:
 
 Combined using:
 
-\[
-E_{total} = \sqrt{E_1^2 + E_2^2 + E_3^2}
-\]
+\
+[E_{total} = sqrt{E_1^2 + E_2^2 + E_3^2}]
+\
 
 ## 🛠️ Usage
 
